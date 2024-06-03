@@ -1,0 +1,10 @@
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\bin\Debug\Diplom_Bacteria.exe.config
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\bin\Debug\Diplom_Bacteria.exe
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\bin\Debug\Diplom_Bacteria.pdb
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.csprojAssemblyReference.cache
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.Form1.resources
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.Properties.Resources.resources
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.csproj.GenerateResource.cache
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.csproj.CoreCompileInputs.cache
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.exe
+C:\Users\kasya\source\repos\Diplom_Bacteria\Diplom_Bacteria\obj\Debug\Diplom_Bacteria.pdb
